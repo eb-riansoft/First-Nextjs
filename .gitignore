@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+.next/
+
+# Optional: IDE/Editor specific files
+.vscode/
+.idea/
+
+# Optional: Logs and build files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
